@@ -1,0 +1,170 @@
+[
+  {
+    "text": "oui",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "proposition",
+      "confidence": 0.23838037252426147
+    }
+  },
+  {
+    "text": "nchalah",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.2723367214202881
+    }
+  },
+  {
+    "text": "tokhrej ?",
+    "intent": "proposition",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.27755317091941833
+    }
+  },
+  {
+    "text": "ta3mel 9ahwa ?",
+    "intent": "proposition",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.6929810643196106
+    }
+  },
+  {
+    "text": "méchin ll stade rades",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.31649455428123474
+    }
+  },
+  {
+    "text": "louléd kharjin ll bros",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.5359569191932678
+    }
+  },
+  {
+    "text": "wa",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.27247703075408936
+    }
+  },
+  {
+    "text": "menajamch nji",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.25978466868400574
+    }
+  },
+  {
+    "text": "borjouleya",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "affirm",
+      "confidence": 0.25992652773857117
+    }
+  },
+  {
+    "text": "aya tji ?",
+    "intent": "proposition",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.8164332509040833
+    }
+  },
+  {
+    "text": "famma 9ahwa ba3d",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "proposition",
+      "confidence": 0.8885781764984131
+    }
+  },
+  {
+    "text": "ey",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.28918901085853577
+    }
+  },
+  {
+    "text": "ti haya bark",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "proposition",
+      "confidence": 0.5127418637275696
+    }
+  },
+  {
+    "text": "3la sé3tin",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.323187917470932
+    }
+  },
+  {
+    "text": "noftrou lbarra ?",
+    "intent": "proposition",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5526449084281921
+    }
+  },
+  {
+    "text": "wadha7",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.8435236215591431
+    }
+  },
+  {
+    "text": "tawa mara jeya",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "proposition",
+      "confidence": 0.37075701355934143
+    }
+  },
+  {
+    "text": "3andek mé taamel lyoum ?",
+    "intent": "proposition",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.5856387615203857
+    }
+  },
+  {
+    "text": "mrigel",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "inform",
+      "confidence": 0.2637338638305664
+    }
+  },
+  {
+    "text": "lé",
+    "intent": "deny",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.24373216927051544
+    }
+  },
+  {
+    "text": "fama takouira",
+    "intent": "inform",
+    "intent_prediction": {
+      "name": "proposition",
+      "confidence": 0.31940576434135437
+    }
+  }
+]
